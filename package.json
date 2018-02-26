@@ -1,0 +1,13 @@
+{
+  "name": "base4gulp",
+  "version": "1.0.0",
+  "description": "Startkit template on Gulp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Den Kuznetsov",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
